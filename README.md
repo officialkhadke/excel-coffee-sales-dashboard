@@ -1,7 +1,8 @@
 # Coffee Sales Dashboard (Excel Project)
 
 ## 📌 Project Overview
-This project demonstrates how raw sales data can be transformed into an **interactive Excel dashboard** that surfaces actionable business insights.  
+This project demonstrates how raw sales data can be transformed into an **interactive Excel dashboard** that surfaces actionable business insights.
+
 The dataset covers coffee sales transactions between **2019–2022**, including product categories, customer information, and geographic markets.
 
 ---
