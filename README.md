@@ -7,11 +7,9 @@ The dataset covers coffee sales transactions between **2019–2022**, including 
 
 ---
 
-## ⚙️ Tools & Techniques
-- **Excel**: PivotTables, PivotCharts, Slicers, Timelines  
-- **Formulas**: `INDEX-MATCH`, `XLOOKUP`, `SUMIFS`  
-- **Data Cleaning**: removed duplicates, formatted dates, standardized categories  
-- **Dashboard Design**: interactive charts, KPIs, and filters
+## 🖼️ Dashboard Preview 
+
+<img width="1494" height="775" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/44920748-13a7-4ffc-8ffd-4eb1ca0c37fe" />
 
 ---
 
@@ -23,6 +21,14 @@ The dataset covers coffee sales transactions between **2019–2022**, including 
 
 ---
 
+## ⚙️ Tools & Techniques
+- **Excel**: PivotTables, PivotCharts, Slicers, Timelines  
+- **Formulas**: `INDEX-MATCH`, `XLOOKUP`, `SUMIFS`  
+- **Data Cleaning**: removed duplicates, formatted dates, standardized categories  
+- **Dashboard Design**: interactive charts, KPIs, and filters
+
+---
+
 ## 🔎 Sample Insights
 - Arabica remained the strongest-selling variety with clear seasonal peaks  
 - Sales were concentrated in the **United States**, with emerging growth in Ireland and the UK  
@@ -31,11 +37,11 @@ The dataset covers coffee sales transactions between **2019–2022**, including 
 ---
 
 ## 📂 Repository Contents
-- `Coffee Sales Dashboard.xlsx` → Interactive Dashboard
+`Coffee Sales Dashboard.xlsx` → Interactive Dashboard
 
 ---
 
-## 🙋 About Me
+## 🙋‍♂️ About Me
 Currently, I am a Growth & Operations Intern at MEURAKI, supporting the launch of flagship wellness activations through content strategy and digital operations.
 My long-term goal is to build a strong foundation in data analytics while leveraging my business background to deliver insights that support smarter, data-driven decisions.
 
