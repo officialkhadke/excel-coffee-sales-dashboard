@@ -36,5 +36,7 @@ The dataset covers coffee sales transactions between **2019–2022**, including 
 ---
 
 ## 🙋 About Me
-This is my **first analytics portfolio project** as I pivot into data analytics.  
-I’m actively learning Excel, SQL, and BI tools — connect with me on https://www.linkedin.com/in/rahulkhadke/
+Currently, I am a Growth & Operations Intern at MEURAKI, supporting the launch of flagship wellness activations through content strategy and digital operations.
+My long-term goal is to build a strong foundation in data analytics while leveraging my business background to deliver insights that support smarter, data-driven decisions.
+
+Connect with me on → https://www.linkedin.com/in/rahulkhadke/
