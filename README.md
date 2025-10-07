@@ -42,7 +42,6 @@ The dataset covers coffee sales transactions between **2019–2022**, including 
 ---
 
 ## 🙋‍♂️ About Me
-Currently, I am a Growth & Operations Intern at MEURAKI, supporting the launch of flagship wellness activations through content strategy and digital operations.
-My long-term goal is to build a strong foundation in data analytics while leveraging my business background to deliver insights that support smarter, data-driven decisions.
+My goal is to build a strong foundation in data analytics while leveraging my business background to deliver insights that support smarter, data-driven decisions.
 
 Connect with me on → https://www.linkedin.com/in/rahulkhadke/
